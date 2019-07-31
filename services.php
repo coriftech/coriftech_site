@@ -34,7 +34,7 @@
 	<?php include ('header.php');?>
 
 	<!-- Title page -->
-	<section class="bg-img1 kit-overlay1" style="background-image: url(images/bg-06.jpg);">
+	<section class="bg-img1 kit-overlay1" style="background-image: url(coriftech_product/coriftech-services.png);">
 		<div class="container size-h-3 p-tb-30 flex-col-c-c">
 			<h2 class="t1-b-1 text-uppercase cl-0 txt-center m-b-25">
 				Services
@@ -58,16 +58,16 @@
 			<div class="row">
 				<div class="col-sm-6 col-md-4 p-b-42">
 					<div>
-						<a href="services-detail-01.html" class="hov-img0 of-hidden">
-							<img src="images/services-07.jpg" alt="IMG">
+						<a href="#" class="hov-img0 of-hidden">
+							<img src="images/ICT-Traning.jpg" alt="IMG">
 						</a>
 
 						<div class="p-t-26">
 							<a href="#" class="d-inline-block t1-m-1 cl-3 hov-link2 trans-02 m-b-7">
-								ICT training and Education
+								ICT Training and Education
 							</a>
 
-							<p class="t1-s-2 cl-6 m-b-17">
+							<p align="justify" class="t1-s-2 cl-6 m-b-17">
                                 Coriftech boasts of certified trainers who are well drilled in various fields in ICT. Our day to day lectures and extensive practical sessions will transform you from a beginner to an expert in any field of your choice.	</p>
 
 							<a href="#" class="t1-s-5 cl-11 text-uppercase hov-link1 trans-02">
@@ -80,8 +80,8 @@
 
 				<div class="col-sm-6 col-md-4 p-b-42">
 					<div>
-						<a href="services-detail-01.html" class="hov-img0 of-hidden">
-							<img src="images/services-08.jpg" alt="IMG">
+						<a href="#" class="hov-img0 of-hidden">
+							<img src="images/crofitech-web-development.png" alt="IMG">
 						</a>
 
 						<div class="p-t-26">
@@ -89,7 +89,7 @@
 								Website Design and Development
 							</a>
 
-							<p class="t1-s-2 cl-6 m-b-17">
+							<p align="justify" class="t1-s-2 cl-6 m-b-17">
                                 Our website developers provide expert web application development and web design services to our clients. We combine advanced web development and design technologies with latest business concepts to make your website appeal directly to your market and convert visitors to customers.</p>
 
 							<a href="#" class="t1-s-5 cl-11 text-uppercase hov-link1 trans-02">
@@ -102,8 +102,8 @@
 
 				<div class="col-sm-6 col-md-4 p-b-42">
 					<div>
-						<a href="services-detail-01.html" class="hov-img0 of-hidden">
-							<img src="images/services-09.jpg" alt="IMG">
+						<a href="#" class="hov-img0 of-hidden">
+							<img src="images/crofitech-database-development.jpg" alt="IMG">
 						</a>
 
 						<div class="p-t-26">
@@ -111,7 +111,7 @@
 								Database Design and Implementation
 							</a>
 
-							<p class="t1-s-2 cl-6 m-b-17">
+							<p align="justify" class="t1-s-2 cl-6 m-b-17">
                                 Coriftech offers affordable database resources to meet your business staffing needs, with experts in Oracle and SQL Server resources whenever and however you need them.</p>
 
 							<a href="#" class="t1-s-5 cl-11 text-uppercase hov-link1 trans-02">
@@ -124,8 +124,8 @@
 
 				<div class="col-sm-6 col-md-4 p-b-42">
 					<div>
-						<a href="services-detail-01.html" class="hov-img0 of-hidden">
-							<img src="images/services-10.jpg" alt="IMG">
+						<a href="#" class="hov-img0 of-hidden">
+							<img src="images/Crofitech-mobile-development.jpg" alt="IMG">
 						</a>
 
 						<div class="p-t-26">
@@ -133,7 +133,7 @@
 								Mobile App Development
 							</a>
 
-							<p class="t1-s-2 cl-6 m-b-17">
+							<p align="justify" class="t1-s-2 cl-6 m-b-17">
                                 We create mobile application experience with a unique interface and a user friendly environment, that blows the mind of our clients and their audience, with the aim of growing their business. From concept to the polished product, it’s always a game changer. Our mobile application services cut across various mobile platforms like android, windows and iOS. </p>
 
 							<a href="#" class="t1-s-5 cl-11 text-uppercase hov-link1 trans-02">
@@ -146,16 +146,16 @@
 
 				<div class="col-sm-6 col-md-4 p-b-42">
 					<div>
-						<a href="services-detail-01.html" class="hov-img0 of-hidden">
-							<img src="images/services-11.jpg" alt="IMG">
+						<a href="#" class="hov-img0 of-hidden">
+							<img src="images/Crofitech-Software-development.jpg" alt="IMG">
 						</a>
 
 						<div class="p-t-26">
 							<a href="#" class="d-inline-block t1-m-1 cl-3 hov-link2 trans-02 m-b-7">
-								Software and application development
+								Software and Application Development
 							</a>
 
-							<p class="t1-s-2 cl-6 m-b-17">
+							<p align="justify" class="t1-s-2 cl-6 m-b-17">
                                 We deliver sophisticated software solutions and high quality services. Custom software development and application development services, are all performed by expert developers. Our approach to custom business software is to work closely with key personnel to identify the needs of your organization. We also proffer solutions to existing software used by your organization as well as offer advices where need be. We ensure routine upgrades and updates, and software bugs are effectively dealt with. </p>
 
 							<a href="#" class="t1-s-5 cl-11 text-uppercase hov-link1 trans-02">
@@ -168,17 +168,17 @@
 
 				<div class="col-sm-6 col-md-4 p-b-42">
 					<div>
-						<a href="services-detail-01.html" class="hov-img0 of-hidden">
-							<img src="images/services-12.jpg" alt="IMG">
+						<a href="#" class="hov-img0 of-hidden">
+							<img src="images/Crofitech-Coperate-Training.jpg" alt="IMG">
 						</a>
 
 						<div class="p-t-26">
 							<a href="#" class="d-inline-block t1-m-1 cl-3 hov-link2 trans-02 m-b-7">
-								Corporate Training
+								Training Services
 							</a>
 
-							<p class="t1-s-2 cl-6 m-b-17">
-                                We provide trainings for staff of companies and corporate institutions, improving their skills to enable them keep up with the rapid growth and changes in the world of ICT. Our corporate training cuts across a range of course timeline to suit all requirements. 		</p>
+							<p align="justify" class="t1-s-2 cl-6 m-b-17">
+                                 We provide trainings for staff of companies and corporate institutions, improving their skills to enable them keep up with the rapid growth and changes in the world of ICT. Our corporate training cuts across a range of course timeline to suit all requirements.  Crofitech provides classroom-based and corporate training courses in <strong>Jamb CBT</strong>.		</p>
 
 							<a href="#" class="t1-s-5 cl-11 text-uppercase hov-link1 trans-02">
 								<i class="fa fa-long-arrow-right m-r-6"></i>
@@ -190,16 +190,16 @@
 
                 <div class="col-sm-6 col-md-4 p-b-42">
                     <div>
-                        <a href="services-detail-01.html" class="hov-img0 of-hidden">
-                            <img src="images/services-10.jpg" alt="IMG">
+                        <a href="#" class="hov-img0 of-hidden">
+                            <img src="images/networksecurity.png" alt="IMG">
                         </a>
 
                         <div class="p-t-26">
                             <a href="#" class="d-inline-block t1-m-1 cl-3 hov-link2 trans-02 m-b-7">
-                                Wireless and Wired Network Deloyment
+                               Network and Security Solution
                             </a>
 
-                            <p class="t1-s-2 cl-6 m-b-17">
+                            <p align="justify" class="t1-s-2 cl-6 m-b-17">
                                 We help you plan, build, optimize and protect your network architecture. Our services entail providing technical implementation support.
                             </p>
                             <a href="#" class="t1-s-5 cl-11 text-uppercase hov-link1 trans-02">
@@ -212,25 +212,18 @@
 
                 <div class="col-sm-6 col-md-4 p-b-42">
                     <div>
-                        <a href="services-detail-01.html" class="hov-img0 of-hidden">
-                            <img src="images/services-11.jpg" alt="IMG">
+                        <a href="#" class="hov-img0 of-hidden">
+                            <img src="images/coriftech-Digital-Marketing.jpg" alt="IMG">
                         </a>
 
                         <div class="p-t-26">
                             <a href="#" class="d-inline-block t1-m-1 cl-3 hov-link2 trans-02 m-b-7">
-                                ICT Support Services
+                                Digital Marketing
                             </a>
 
-                            <p class="t1-s-2 cl-6 m-b-17">
+                            <p align="justify" class="t1-s-2 cl-6 m-b-17">
 
-                                School Management Software,
-                                Hotel MAnagement Software,
-                                Installation of CCTV,
-                                CBT Software,
-                                Poultry Management Software,
-                                loan Management Software,
-                                Support the on-site ICT staff,
-                                And many more to suit your needs
+                                We help both new and existing businesses stand out creatively and communicate effectively through inspiring branding and creative services.Marketing has become integral to the web experience. With millions of sites on the web, and more going live each day, you have to find a way to stand out in the crowd or your site will not reach its intended audience. We're one of the best web marketing companies around because we provide customized and original marketing solutions.
 
                                    </p>
 
@@ -244,8 +237,8 @@
 
                 <div class="col-sm-6 col-md-4 p-b-42">
                     <div>
-                        <a href="services-detail-01.html" class="hov-img0 of-hidden">
-                            <img src="images/services-12.jpg" alt="IMG">
+                        <a href="#" class="hov-img0 of-hidden">
+                            <img src="images/cbt.jpg" alt="IMG">
                         </a>
 
                         <div class="p-t-26">
@@ -253,7 +246,7 @@
                                 CBT Training
                             </a>
 
-                            <p class="t1-s-2 cl-6 m-b-17">
+                            <p align="justify" class="t1-s-2 cl-6 m-b-17">
                                 We develop CBT software for both private and public organizations. We also set up CBT centers for corporate organizations and schools as well as train them on how to deploy the CBT software and use it effectively. Private and public organizations or institutions are also welcome to using our CBT center as a test center for administering of examinations.
 
                             </p>
@@ -267,16 +260,16 @@
 
                 <div class="col-sm-6 col-md-4 p-b-42">
                     <div>
-                        <a href="services-detail-01.html" class="hov-img0 of-hidden">
-                            <img src="images/services-10.jpg" alt="IMG">
+                        <a href="#" class="hov-img0 of-hidden">
+                            <img src="images/Coworking-Space.jpg" alt="IMG">
                         </a>
 
                         <div class="p-t-26">
                             <a href="#" class="d-inline-block t1-m-1 cl-3 hov-link2 trans-02 m-b-7">
-                               Workspace
+                               Co-Working Space
                             </a>
 
-                            <p class="t1-s-2 cl-6 m-b-17">
+                            <p align="justify" class="t1-s-2 cl-6 m-b-17">
                                 Our well-equipped labs are always open to public and private entities for practical training sections, seminars, expos etc. Standard and up to date equipment and software are readily available for use.
 
                             </p>
@@ -290,8 +283,8 @@
 
                 <div class="col-sm-6 col-md-4 p-b-42">
                     <div>
-                        <a href="services-detail-01.html" class="hov-img0 of-hidden">
-                            <img src="images/services-11.jpg" alt="IMG">
+                        <a href="#" class="hov-img0 of-hidden">
+                            <img src="images/consultation.jpg" alt="IMG">
                         </a>
 
                         <div class="p-t-26">
@@ -299,7 +292,7 @@
                                 ICT Consultation
                             </a>
 
-                            <p class="t1-s-2 cl-6 m-b-17">
+                            <p align="justify" class="t1-s-2 cl-6 m-b-17">
 
                                 Our team of highly qualified consultants can help you get more value for your money, proffering advice on best ICT strategies, new technologies, required changes to your infrastructure from network to communications, end-user computing, software and engineering service management and continually proffer solutions and advice for the growth of your business. Quality is our goal!!!
 
@@ -315,8 +308,8 @@
 
                 <div class="col-sm-6 col-md-4 p-b-42">
                     <div>
-                        <a href="services-detail-01.html" class="hov-img0 of-hidden">
-                            <img src="images/services-12.jpg" alt="IMG">
+                        <a href="#" class="hov-img0 of-hidden">
+                            <img src="images/onlineservices.png" alt="IMG">
                         </a>
 
                         <div class="p-t-26">
@@ -324,7 +317,7 @@
                                 Online Services
                             </a>
 
-                            <p class="t1-s-2 cl-6 m-b-17">
+                            <p align="justify" class="t1-s-2 cl-6 m-b-17">
 
 
                                 NYSC Registration and call up letter print out,

@@ -159,7 +159,7 @@
 
 					    data-basealign="slide" 
     					data-responsive_offset="off"
-					    >Coriftech SOlutions Limited</h2>
+					    >Coriftech Solutions Limited</h2>
 
 					    <p class="tp-caption tp-resizeme caption-2" 
 						data-frames='[{"delay":1500,"speed":1500,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
@@ -256,9 +256,7 @@
 						</div>
 							
 						<div class="block1-hide flex-col-c-c p-t-8 trans-04">
-							<p class="t1-s-2 cl-12 txt-center p-b-26">
-								Sed nec egestas diam, vitae imper-diet nisi. Vivamus cursus
-							</p>
+
 
 							<a href="#" class="flex-c-c size-a-1 p-rl-15 t1-s-2 text-uppercase cl-6 bg-0 hov-btn1 trans-02">
 								Read More
@@ -282,9 +280,6 @@
 						</div>
 							
 						<div class="block1-hide flex-col-c-c p-t-8 trans-04">
-							<p class="t1-s-2 cl-12 txt-center p-b-26">
-								Sed nec egestas diam, vitae imper-diet nisi. Vivamus cursus
-							</p>
 
 							<a href="#" class="flex-c-c size-a-1 p-rl-15 t1-s-2 text-uppercase cl-6 bg-0 hov-btn1 trans-02">
 								Read More
@@ -308,9 +303,7 @@
 						</div>
 							
 						<div class="block1-hide flex-col-c-c p-t-8 trans-04">
-							<p class="t1-s-2 cl-12 txt-center p-b-26">
-								Sed nec egestas diam, vitae imper-diet nisi. Vivamus cursus
-							</p>
+
 
 							<a href="#" class="flex-c-c size-a-1 p-rl-15 t1-s-2 text-uppercase cl-6 bg-0 hov-btn1 trans-02">
 								Read More
@@ -334,9 +327,7 @@
 						</div>
 							
 						<div class="block1-hide flex-col-c-c p-t-8 trans-04">
-							<p class="t1-s-2 cl-12 txt-center p-b-26">
-								Sed nec egestas diam, vitae imper-diet nisi. Vivamus cursus
-							</p>
+
 
 							<a href="#" class="flex-c-c size-a-1 p-rl-15 t1-s-2 text-uppercase cl-6 bg-0 hov-btn1 trans-02">
 								Read More
@@ -416,31 +407,31 @@
 			<div class="row justify-content-center">
 				<div class="col-sm-4 col-lg-2 flex-c-c p-b-60">
 					<a href="#">
-						<img class="hov-img2 trans-02 max-s-full" src="images/icons/partner-01.png" alt="IMG">
+						<img class="hov-img2 trans-02 max-s-full" src="images/business2.jpg" alt="IMG">
 					</a>
 				</div>
 
 				<div class="col-sm-4 col-lg-2 flex-c-c p-b-60">
 					<a href="#">
-						<img class="hov-img2 trans-02 max-s-full" src="images/icons/partner-02.png" alt="IMG">
+						<img class="hov-img2 trans-02 max-s-full" src="images/business2.png" alt="IMG">
 					</a>
 				</div>
 
 				<div class="col-sm-4 col-lg-2 flex-c-c p-b-60">
 					<a href="#">
-						<img class="hov-img2 trans-02 max-s-full" src="images/icons/partner-03.png" alt="IMG">
+						<img class="hov-img2 trans-02 max-s-full" src="images/business3.png" alt="IMG">
 					</a>
 				</div>
 
 				<div class="col-sm-4 col-lg-2 flex-c-c p-b-60">
 					<a href="#">
-						<img class="hov-img2 trans-02 max-s-full" src="images/icons/partner-04.png" alt="IMG">
+						<img class="hov-img2 trans-02 max-s-full" src="images/business4.png" alt="IMG">
 					</a>
 				</div>
 
 				<div class="col-sm-4 col-lg-2 flex-c-c p-b-60">
 					<a href="#">
-						<img class="hov-img2 trans-02 max-s-full" src="images/icons/partner-05.png" alt="IMG">
+						<img class="hov-img2 trans-02 max-s-full" src="images/business5.png" alt="IMG">
 					</a>
 				</div>
 			</div>

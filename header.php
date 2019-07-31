@@ -8,7 +8,7 @@
 							<span class="fs-16 m-r-6">
 								<i class="fa fa-home" aria-hidden="true"></i>
 							</span>
-                        <span>Plot A, Family Support way, Opposite U.L.O, Okpanam Road, Asaba, Delta State.</span>
+                        <span style="color:#FFF">Plot A, Family Support way, Opposite U.L.O, Okpanam Road, Asaba, Delta State.</span>
                     </div>
 
                     <div class="t1-s-1 cl-13 m-r-25">
@@ -29,7 +29,7 @@
                 </div>
 
                 <div class="text-nowrap">
-                    <a href="#" class="fs-16 cl-13 hov-link2 trans-02 m-l-15">
+                    <a href="https://web.facebook.com/coriftech" class="fs-16 cl-13 hov-link2 trans-02 m-l-15">
                         <i class="fa fa-facebook-official"></i>
                     </a>
 
@@ -78,15 +78,21 @@
                             <a href="services">Services</a>
 
                         </li>
+                        <li>
+                            <a href="gallery.php">Gallery</a>
 
+                        </li>
+                        <li>
+                            <a href="product.php">Products</a>
 
-
-
-
-
-
+                        </li>
+                         
                         <li>
                             <a href="contact">Contact us</a>
+                        </li>
+                        <li>
+                            <a href="Scholarship2019.php">Scholarship2019</a>
+
                         </li>
                     </ul>
                 </div>
@@ -125,7 +131,7 @@
                 <li>
                     <div class="t1-s-1 cl-5 p-tb-3">
 							<span class="fs-16 m-r-6">
-								<i class="fa fa-phone" aria-hidden="true"></i>
+								<i class="fa fa-whatsapp" aria-hidden="true"></i>
 							</span>
                         <span><a href="https://wa.me/+2348103506776" target="_blank">+2348103506776</a></span>
                     </div>
@@ -134,7 +140,7 @@
                 <li>
                     <div class="t1-s-1 cl-5 p-tb-3">
 							<span class="fs-16 m-r-6">
-								<i class="fa fa-whatsapp icon-left" aria-hidden="true"></i>
+								<i class="fa fa-phone icon-left" aria-hidden="true"></i>
 							</span>
                         <span> <a href="tel:+234902553155" target="_blank">+234902553155</a></span>
                     </div>
