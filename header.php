@@ -74,6 +74,9 @@
                             <a href="about">About Us</a>
                         </li>
 
+                                                <li>
+                                                    <a href="courses">Courses</a>
+                                                </li>
                         <li>
                             <a href="services">Services</a>
 
