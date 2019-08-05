@@ -34,8 +34,6 @@
     <link rel="stylesheet" href="gallery-style/baguetteBox.min.css">
     <link rel="stylesheet" href="gallery-style/thumbnail-gallery.css">
 
-
-
 <!--===============================================================================================-->
 </head>
 <body class="animsition">
