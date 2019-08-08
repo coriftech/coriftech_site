@@ -78,6 +78,125 @@
                             <a href="services">Services</a>
 
                         </li>
+
+                        <li>
+								<a href="services-list.html">Courses</a>
+								<ul class="sub-menu">
+									<li><a href="services-list.html"><small>ICT Fundamentals</small></a>
+										<ul class="sub-menu">
+											<li><a href="services-detail-01.html"><small>Certificate in Digital Literacy</small></a></li>
+											<li><a href="services-detail-02.html"><small>Diploma in Information Technology</small></a></li>
+										</ul>
+									</li>
+									<li><a href="services-list.html"> <small>Database Management Courses</small></a>
+										<ul class="sub-menu">
+											<li><a href="services-detail-01.html"><small>Oracle</small></a>
+												<ul class="sub-menu">
+													<li><a href="services-detail-01.html"><small>Microsoft SQL Server</small></a></li>
+													<li><a href="services-detail-02.html"><small>Oracle Certified Associate (OCA)</small></a></li>
+													<li><a href="services-detail-02.html"><small>Oracle Certified Professional (OCP)</small></a></li>
+													<li><a href="services-detail-02.html"><small>Oracle Business Intelligence Enterprise Edition</small></a></li>
+												</ul>
+											</li>
+											<li><a href="services-detail-02.html">Microsoft SQL Server</a>
+												<ul class="sub-menu">
+													<li><a href="services-detail-01.html"><small>Administering Microsoft SQL Server 2014 Databases</small></a></li>
+													<li><a href="services-detail-02.html"><small>Querying Microsoft SQL Server</small></a></li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+									<li><a href="services-list.html"><small>Data Science</small></a>
+										<ul class="sub-menu">
+											<li><a href="services-detail-01.html"><small>Data Analysis</small></a></li>
+											<li><a href="services-detail-02.html"><small>Microsoft Power BI</small></a></li>
+											<li><a href="services-detail-02.html"><small>Advanced Microsoft Excel</small></a></li>
+										</ul>
+									</li>
+									<li><a href="services-list.html"><small>Networking Courses</small></a>
+										<ul class="sub-menu">
+											<li><a href="services-detail-01.html"><small>CompTIA Courses</small></a>
+												<ul class="sub-menu">
+													<li><a href="services-detail-01.html"><small>CompTIA N+</small></a></li>
+												</ul>
+											</li>
+											<li><a href="services-detail-02.html"><small>Cisco</small></a>
+												<ul class="sub-menu">
+													<li><a href="services-detail-02.html"><small>CCNA</small></a></li>
+													<li><a href="services-detail-02.html"><small>CCNP</small></a></li>
+												</ul>
+											</li>
+										</ul>
+						
+									</li>
+									<li><a href="services-list.html"><small>Software Engineering Courses</small></a>
+										<ul class="sub-menu">
+											<li><a href="services-detail-01.html"><small>Python</small></a><li>
+											<li><a href="services-detail-02.html"><small>Java</small></a>
+												<ul class="sub-menu">
+													<li><a href="services-detail-02.html"><small>Java Spring Framework</small></a></li>
+													<li><a href="services-detail-02.html"><small>Oracle Certified Associate Java SE7 Programmer I (OCJA7)</small></a></li>
+													<li><a href="services-detail-02.html"><small>Oracle Certified Associate Java SE7 Programmer I & II</small></a></li>
+													<li><a href="services-detail-02.html"><small>Oracle Certified Professional Java SE7 Programmer II Course</small></a></li>
+
+												</ul>
+											</li>		
+											<li><a href="services-detail-01.html"><small>Microsoft</small></a>
+												<ul class="sub-menu">
+													<li><a href="services-detail-01.html"><small>CompTIA N+</small></a></li>
+												</ul>
+											</li>
+										</ul>
+										<li><a href="services-detail-01.html"><small>Hardware Engineering Courses</small></a>
+												<ul class="sub-menu">
+													<li><a href="services-detail-01.html"><small>CompTIA A+</small></a></li>
+												</ul>
+											</li>
+										<li><a href="services-detail-01.html"><small>Mobile Apps Development</small></a></li>
+										<li><a href="services-detail-01.html"><small>Web Development Courses</small></a>
+											<ul class="sub-menu">
+												<li><a href="services-detail-01.html"><small>PHP Laravel Framework Javascript Programming</small></a></li>
+												<li><a href="services-detail-01.html"><small>WordPress Training	</small></a></li>
+												<li><a href="services-detail-01.html"><small>Certificate in Web Programming (CWP)</small></a></li>
+												<li><a href="services-detail-01.html"><small>Diploma in Website Design (DWD)</small></a></li>
+											</ul>
+										</li>
+										
+										<li><a href="services-detail-01.html"><small>Online Marketing Courses</small></a>
+											<ul class="sub-menu">
+												<li><a href="services-detail-01.html"><small>Search Engine Optimization (SEO)</small></a></li>
+												<li><a href="services-detail-01.html"><small>Digital Marketing</small></a></li>
+											</ul>
+										</li>
+										<li><a href="services-detail-01.html"><small>Project Management Courses</small></a>
+											<ul class="sub-menu">
+												<li><a href="services-detail-01.html"><small>Microsoft Project For Project Managers</small></a></li>
+												<li><a href="services-detail-01.html"><small>Project Management Professional (PMP)</small></a></li>
+											</ul>
+										</li>
+										<li><a href="services-detail-01.html"><small>IT Security Courses</small></a>
+											<ul class="sub-menu">
+												<li><a href="services-detail-01.html"><small>Certified Ethical Hacker (CEH)</small></a></li>
+												<li><a href="services-detail-01.html"><small>Certified Secure Computer User</small></a></li>
+												<li><a href="services-detail-01.html"><small>Checkpoint Technology
+												</small></a></li>
+											</ul>
+										</li>
+										<li><a href="services-detail-01.html"><small>Cloud Computing</small></a>
+											<ul class="sub-menu">
+												<li><a href="services-detail-01.html"><small>Cloud Computing Course
+												</small></a></li>
+											</ul>
+										</li>
+										<li><a href="services-detail-01.html"><small>Architectural Design Courses</small></a>
+											<ul class="sub-menu">
+												<li><a href="services-detail-01.html"><small>Autocad 2D</small></a></li>
+											</ul>
+										</li>
+									</li>
+								</ul>
+							</li>
+
                         <li>
                             <a href="gallery.php">Gallery</a>
 
